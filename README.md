@@ -25,4 +25,3 @@ Here are some ideas to get you started:
   - I work with ERP software for a living and would like to build a very simple, intuitive system for Girl Scouts to manage their cookie orders and inventory.
 - 📫 How to reach me: ...
   - https://www.linkedin.com/in/kevindurette/
-- 😄 Pronouns: He/They/Human/Compatriot/Comrade
